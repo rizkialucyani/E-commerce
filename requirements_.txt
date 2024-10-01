@@ -2,7 +2,6 @@ numpy==2.1.1
 pandas==2.2.3
 streamlit
 pickle
-scikit-learn
 pip==24.2
 matplotlib.ticker==3.9.2
 seaborn
