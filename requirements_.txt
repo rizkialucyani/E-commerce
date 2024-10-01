@@ -1,7 +1,5 @@
+matplotlib==3.9.2
 numpy==2.1.1
 pandas==2.2.3
-streamlit
-pickle
-pip==24.2
-matplotlib==3.9.2
-seaborn
+seaborn==0.13.2
+streamlit==1.38.0
