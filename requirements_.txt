@@ -5,4 +5,3 @@ pickle
 scikit-learn
 pip==24.2
 matplotlib==3.9.2
-pip install -r requirements.txt
