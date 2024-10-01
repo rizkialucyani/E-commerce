@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.ticker as mtick
 
+pip install -r requirements. txt
+
 # Load the DataFrame
 all_df = pd.read_csv('all_data.csv')
 
