@@ -1,14 +1,18 @@
-E-commerce Dashboard 💻
+## E-commerce Dashboard 💻
+
 Deskripsi
+
 Dashboard ini merupakan aplikasi analisis perilaku pengunjung pada situs E-commerce yang dibuat menggunakan Streamlit. Aplikasi ini memungkinkan pengguna untuk menganalisis dan memprediksi pengunjung yang berpotensi menghasilkan pendapatan bagi situs E-commerce. Proyek ini bertujuan memberikan wawasan lebih lanjut tentang faktor-faktor yang mempengaruhi perilaku pembelian pengunjung.
 
 Fitur
+
 Tampilkan data perilaku pengunjung situs E-commerce harian.
 Visualisasi pengaruh berbagai fitur (seperti durasi kunjungan dan halaman yang dikunjungi) terhadap keputusan pembelian.
 Perbandingan pengunjung yang menghasilkan pendapatan dan yang tidak.
 Analisis lebih lanjut tentang faktor yang paling mempengaruhi perilaku pengunjung.
 
 Teknologi yang Digunakan
+
 Python: Bahasa pemrograman yang digunakan.
 Streamlit: Framework untuk membuat aplikasi web interaktif.
 Pandas: Library untuk manipulasi dan analisis data.
@@ -16,9 +20,11 @@ Matplotlib: Library untuk membuat visualisasi data.
 Seaborn: Library untuk visualisasi statistik yang menarik.
 
 Project Analisis Data
+
 Dalam repository ini, saya mempersembahkan proyek analisis data yang bertujuan untuk memahami perilaku pengunjung situs E-commerce. Proyek ini dianalisis secara mendalam melalui platform Streamlit yang interaktif.
 
 Struktur Direktori
+
 /dashboard: 
 main_data.csv: File ini berisi data utama yang dianalisis, mencakup informasi perilaku pengunjung, termasuk durasi kunjungan, halaman yang dilihat, serta apakah pengunjung tersebut menghasilkan pendapatan bagi situs.
 dashboard.py: Script Python yang digunakan untuk membangun aplikasi dashboard dengan Streamlit. Di dalamnya terdapat logika untuk memproses data dan menampilkan visualisasi yang interaktif kepada pengguna.
@@ -31,6 +37,7 @@ requirements.txt: File ini berisi daftar pustaka Python yang diperlukan untuk me
 url.txt: File ini berisi tautan atau URL yang relevan dengan proyek.
 
 Instalasi 
+
 Clone repository ini ke komputer lokal Anda dengan perintah berikut:
 git clone https://github.com/rizkialucyani/E-commerce.git
 Instal pustaka-pustaka yang diperlukan dengan perintah berikut:
