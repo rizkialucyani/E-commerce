@@ -1,6 +1,7 @@
-streamlit                 1.39.0
-pandas                    2.2.3
-numpy                     2.1.1
-matplotlib                3.9.2
-seaborn                   0.13.2
-pip                       24.2
+numpy==2.1.1
+pandas==2.2.3
+streamlit
+pickle
+scikit-learn
+pip==24.2
+matplotlib==3.9.2
