@@ -44,7 +44,7 @@ Instal pustaka-pustaka yang diperlukan dengan perintah berikut:
 pip install -r requirements.txt
 Jalankan aplikasi dengan perintah berikut:
 cd E-commerce/dashboard/
-streamlit run dashboard.py
+streamlit run dashboard1.py
 Link aplikasi: E-commerce Dashboard
 
 © 2024 Rizkia Lucyani Suherman. All rights reserved.
