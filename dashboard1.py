@@ -4,17 +4,15 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.ticker as mtick
 
-# Load the DataFrame
-all_df = pd.read_csv('all_data.csv')
+all_df = pd.read_csv('datasets/all_data.csv')
+customer_df = pd.read_csv('datasets/customers_dataset.csv')
+geolocation_df = pd.read_csv('datasets/geolocation_dataset.csv')
+order_items_df = pd.read_csv('datasets/order_items_dataset.csv')
+order_payments_df = pd.read_csv('datasets/order_payments_dataset.csv')
+order_reviews_df = pd.read_csv('datasets/order_reviews_dataset.csv')
+orders_df = pd.read_csv('datasets/orders_dataset.csv')
+product_category_name_df = pd.read_csv('datasets/product_category_name_translation.csv')
 
-# Load additional datasets
-customer_df = pd.read_csv('customers_dataset.csv')
-geolocation_df = pd.read_csv('geolocation_dataset.csv')
-order_items_df = pd.read_csv('order_items_dataset.csv')
-order_payments_df = pd.read_csv('order_payments_dataset.csv')
-order_reviews_df = pd.read_csv('order_reviews_dataset.csv')
-orders_df = pd.read_csv('orders_dataset.csv')
-product_category_name_df = pd.read_csv('product_category_name_translation.csv')
 
 st.title('E-Commerce Sales Dashboard')
 st.markdown("""
