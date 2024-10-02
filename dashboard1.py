@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.ticker as mtick
 
-all_df = pd.read_csv('datasets/all_data.csv')
+all_df = pd.read_csv('all_data.csv')
 customer_df = pd.read_csv('datasets/customers_dataset.csv')
 geolocation_df = pd.read_csv('datasets/geolocation_dataset.csv')
 order_items_df = pd.read_csv('datasets/order_items_dataset.csv')
